@@ -1,2 +1,1 @@
-Hello
-xin chao
+Nội dung A
